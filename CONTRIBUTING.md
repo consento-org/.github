@@ -43,7 +43,7 @@ If possible please provide a minimal demo of the problem.
 
 ## License
 By contributing to Consento, you agree that your contributions will be licensed
-under the license inticated in the repositories `LICENSE` file.
+under the license indicated in the repositories `LICENSE` file.
 
 ## References
 This document was adapted from the open-source contribution guidelines for 
