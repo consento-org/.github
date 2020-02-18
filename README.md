@@ -1,2 +1,3 @@
 # .github
-Consento repository for default files
+
+Consento repository for administrative files
