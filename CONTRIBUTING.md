@@ -31,6 +31,11 @@ address to every Git commit message:
 git commit --signoff
 ```
 
+In Sourcetree you can signoff commits automatically by selecting the sign-off menu
+in the commit dialog.
+
+<img width="189" src="https://user-images.githubusercontent.com/914122/74705003-b88a7180-5255-11ea-939a-d9b729947865.png">
+
 ## Issues
 We use GitHub issues to track public bugs. Please ensure your description is
 clear and has sufficient instructions to be able to reproduce the issue.
